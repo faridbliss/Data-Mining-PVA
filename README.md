@@ -24,7 +24,7 @@ number of attributes: 475, Number of examples/observations: 95412. We need to go
 
 # Modelling
 
-### Numeric Data
+## Numeric Data
 
 #### Density-based methods
 #### Mean-Shift Clustering
