@@ -7,8 +7,7 @@ Customer Segmentation of PVA donors in such a way that it will be possible for t
 In order to intuitively fish out the potentially relevant attributes from our data with
 number of attributes: 475, Number of examples/observations: 95412. We need to go through the data dictionary and understand the meaning of each and their relevance/contribution towards building our clusters. When we first scan through the dataset, we consider a number of variables to be potentially important variables. Below are some of the variables:
 
-### CONTROLN:
-   Control number tied to the donors (unique record identifier)
+### CONTROLN: ##### Control number tied to the donors (unique record identifier)
 ### INCOME: 
   Gives us an idea on how many people are earning and do they earn enough to be able to contribute as donation.
 ### AGE: 
