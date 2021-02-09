@@ -21,3 +21,19 @@ number of attributes: 475, Number of examples/observations: 95412. We need to go
   Do they own their own house or not? This shows us their assets to rely on. MDMAUD​: This will highlight a potential donor from the rest with the bits of    information that it provides.
 ### AVGGIFT:
   How much have they donated until now in the form of gifts. Historical information helps us predict the future amount too that they will likely donate
+
+# Modelling
+
+### Numeric Data
+
+#### Density-based methods
+#### Mean-Shift Clustering
+#### Hierarchical methods
+#### Partitioning methods (K-means)
+#### Expectation-Maximization (EM) Clustering
+
+## Categoric Data
+#### K-Modes
+
+## Combine Numeric and Categoric Data
+#### K-Prototypes
