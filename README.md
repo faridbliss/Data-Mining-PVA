@@ -11,17 +11,25 @@ number of attributes: 475, Number of examples/observations: 95412. We need to go
 
 ** CONTROLN:
   Control number tied to the donors (unique record identifier)
+  
 ** INCOME: 
   Gives us an idea on how many people are earning and do they earn enough to be able to contribute as donation.
+  
 ** AGE: 
   Younger or older people are more likely to donate. Age distribution is a must.
+  
 ** MAJOR: 
   Shows us whether they have been major donors in the past.
+  
 ** TIMELAG:
   Estimates the gap between two donations of a user. Helps us understand how often and after how long they can donate.
+  
 ** HOMEOWNR:
-  Do they own their own house or not? This shows us their assets to rely on. MDMAUD​: This will highlight a potential donor from the rest with the bits of    information that it provides.
-## AVGGIFT:
+  Do they own their own house or not? This shows us their assets to rely on. 
+  
+** MDMAUD: This will highlight a potential donor from the rest with the bits of    information that it provides.
+  
+* AVGGIFT:
   How much have they donated until now in the form of gifts. Historical information helps us predict the future amount too that they will likely donate
 
 # Modelling
