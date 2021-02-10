@@ -2,6 +2,8 @@
 
 Customer Segmentation of PVA donors in such a way that it will be possible for them to better understand the behavior of their donors and to better identify the different segments of donors/potential donors within their database
 
+Dataset file: <a href="https://www.kaggle.com/faridbliss/pvadonors">Here</a>
+
 # Introducing our Data
 
 In order to intuitively fish out the potentially relevant attributes from our data with
